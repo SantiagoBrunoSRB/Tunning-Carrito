@@ -1,0 +1,98 @@
+
+*{box-sizing: border-box;}
+*{margin: 0;}
+
+
+body{background-color: #E5E5E5;
+}
+
+.subtitulos{
+    display: flex;
+    width: 100vw;
+    padding-bottom: 2%;
+    
+  
+}
+.sub1{width: 45vw;
+padding-left: 5%;
+text-align:center;}
+.sub2{width: 35vw}
+.sub3{width: 35vw}
+.sub4{width: 35vw}
+
+
+
+
+.col-12{
+    width: auto;
+    height: 70vh;
+    background-color: white;
+    border-radius: 1%;
+    padding-left: 2%;
+    margin: 5%;
+    
+}
+
+
+.producto{
+    display: flex;
+    justify-content:left;
+    width: 95vw ;
+}
+
+
+
+
+
+ .precio-unitario{
+    display: flex;
+   margin: 5vw;
+   
+} 
+
+.detalles{
+    display: flex;
+    justify-content:center;
+    width:  15vw;}  */
+
+ .detalles2{
+    width: 20vw;
+ }
+
+
+.total{
+    display: flex;
+    text-align: justify;
+    justify-content:center ;
+}
+
+.precio-sumado{
+    display: flex;
+    text-align: justify;
+    justify-content:center
+}
+
+.preciosubtotal{
+    width: 20vw;
+padding-left: 70px;
+}
+
+
+
+.envio{
+    height: 30vh;
+}
+
+
+
+
+
+.pago{
+    text-align:center;
+    background-color: white;
+    width: 40vw;
+    height:40vh;
+    margin-left: 30vw;
+    border: 20px;
+    
+    ;}
